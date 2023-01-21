@@ -12,6 +12,7 @@
 \usepackage[english]{babel}
 \usepackage{tabularx}
 \usepackage{multicol}
+\usepackage{fontawsome}
 \input{glyphtounicode}
 
 \usepackage[default]{sourcesanspro}
@@ -37,14 +38,14 @@
 \setlength{\tabcolsep}{0in}
 
 \titleformat{\section}{
-  \vspace{-4pt}\centering
-}{}{0em}{}[\color{black}\titlerule\vspace{-5pt}]
+  \vspace{10pt}\centering
+}{}{0em}{}[\vspace{2pt} \color{black}\titlerule\vspace{2pt}]
 
 
 \pdfgentounicode=1
 
 \newcommand{\resumeItem}[1]{
-  \item\small{
+  \item\normalsize{
     {#1 \vspace{-2pt}}
   }
 }
@@ -85,32 +86,36 @@
 
 
 \begin{center}
-    {\Huge Manan Jain} \\ \vspace{2pt}
+    {\fontsize{40pt}{36pt}\selectfont Manan Jain} \\ \vspace{2pt}
     
 \end{center}
+
+\vspace{10pt}
 
 % %-----------Contact Info-----------
 % \section{\Large Contact Info}
 \begin{center}
         \setlength{\tabcolsep}{18pt}
     \begin{tabular}{c | c | c | c }
-         {mananj146@gmail.com} & {\href{https://github.com/manan3172003}{GitHub}} & {\href{https://www.linkedin.com/in/manan-jain-253486224/}{LinkedIn}} & {{+1 (587) 938 5436}}
+         {\underline{\faEnvelopeO \hspace{1pt} mananj146@gmail.com}} & {\href{https://github.com/manan3172003}{\underline{\faGithub \hspace{1pt} GitHub}}} & {\href{https://www.linkedin.com/in/manan-jain-253486224/}{\underline{\faLinkedinSquare \hspace{1pt} LinkedIn}}} & {\faPhone \hspace{1pt} {+1 (587) 938 5436}}
     \end{tabular}{}
 \end{center}
-\vspace{15pt}
+\vspace{5pt}
 
 %-----------PROGRAMMING SKILLS-----------
 \section{\LARGE Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Programming Languages, DBMS, other tools:}
+     \textbf{\normalsize{Programming Languages, DBMS, other tools:}}
         {\resumeItemListStart
         \resumeItem{Proficient: C/C++, Python, RISC-V Assembly, Android Studio, Java, Git, GitHub, WSL}
+        \vspace{3pt}
         \resumeItem{Intermediate: Arduino, MySQL, JavaScript, HTML/CSS, Kotlin}
+        \vspace{3pt}
         \resumeItem{Familiar: xml, React, Express}
     \resumeItemListEnd}
     \vspace{5pt}
-     \textbf{Languages}{: Hindi (native), English (fluent), French (Beginner)}
+     \textbf{\normalsize{Languages}}{\normalsize{: Hindi (native), English (fluent), French (Beginner)}}
      
     }}
  \end{itemize}
@@ -121,11 +126,12 @@
 \section{\LARGE Education}
   \resumeSubHeadingListStart
       \resumeSubheading
-      {\large University of Alberta}{\large Sept. 2021 -- Present}
-      {BSc Honors in Computer Science}{ Edmonton, AB}
+      {\large \faMortarBoard \hspace{1pt} University of Alberta}{\large Sept. 2021 -- Present}
+      {\normalsize{BSc Honors in Computer Science}}{\normalsize{Edmonton, AB}}
       \resumeSubheading
       {}{}
-      {Relevant Coursework:}{}
+      {\normalsize{Relevant Coursework:}}{}
+      \vspace{10pt}
   \resumeSubHeadingListEnd
         \resumeItemListStart
         \resumeItem{Introduction to Software Engineering (Unified Modeling Language, Software architecture, frameworks etc.)}
@@ -139,43 +145,43 @@
 
 %-----------EXPERIENCE-----------
 \section{\LARGE Projects}
+ \vspace{5pt}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {\href{https://github.com/manan3172003/votebased-chatbox}{\underline{Vote-Based Chatbox (JavaScript, MongoDB)} }}{}
+      {\href{https://github.com/manan3172003/votebased-chatbox}{\underline{\faCode \hspace{1pt} Vote-Based Chatbox (JavaScript, MongoDB)} }}{}
       {}{}
       \resumeItemListStart
         \resumeItem{built a software with code-based chatrooms where messages are sent and then upvoted or downvoted, with the highest-rated message appearing at the top.}
+        \vspace{1pt}
         \resumeItem{uses the JavaScript React framework for the front end and the JavaScript Express framework and MongoDB for the back end.}
+        \vspace{1pt}
         \resumeItem{can be used by instructors teaching online classes to give priority to responding to the most frequently asked questions.}
     \resumeItemListEnd
     
-    \resumeSubheading
-    {}{}{}{}
+    \vspace{10pt}
+
     
     \resumeSubheading
-      {\href{https://github.com/manan3172003/sonar-arduino}{\underline{Arduino Radar (Java, C++)} }}{}
+      {\href{https://github.com/manan3172003/sonar-arduino}{\underline{\faCode \hspace{1pt} Arduino Radar (Java, C++)} }}{}
       {}{}
       \resumeItemListStart
         \resumeItem{built a device that measures the separation between an object and itself}
         \resumeItem{uses an arduino UNO chip, breadboard, servo motor and an HC-05 ultrasonic sensor}
-        \resumeItem{provides a visual of the location object with respect to itself}
+        \resumeItem{provides a visual of the location of the object with respect to itself}
     \resumeItemListEnd
      
-     \resumeSubheading
-    {}{}{}{}
+    \vspace{10pt}
     
     \resumeSubheading
-      {\href{https://github.com/manan3172003/Snake-Game}{\underline{Snake-Game (RISC-V assembly)} }}{}
+      {\href{https://github.com/manan3172003/Snake-Game}{\underline{\faCode \hspace{1pt} Snake-Game (RISC-V assembly)} }}{}
       {}{}
       \resumeItemListStart
         \resumeItem{built a snake game with 3 different difficulty levels}
-        \resumeItem{employs RISC-V assembly language and user and timer interrupts.}
+        \resumeItem{uses RISC-V assembly language and user and timer interrupts.}
         \resumeItem{for a better understanding of interrupts and exception handlers}
     \resumeItemListEnd
     
-    \resumeSubheading
-    {}{}{}{}
-
+    \vspace{15pt}
   \resumeSubHeadingListEnd
 
 \end{document}
