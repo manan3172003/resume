@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.16)  21 JAN 2023 02:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.16)  27 MAY 2023 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -604,54 +604,38 @@ Package hyperref Info: Link coloring OFF on input line 84.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 89.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 40.0pt on input line 89.
+(Font)              scaled to size 36.0pt on input line 89.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 99.
+(Font)              <7> on input line 98.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 99.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 99
+(Font)              <5> on input line 98.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 98
 .
 
 (C:\Users\manan\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 100.
+ut line 99.
 
 (C:\Users\manan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesom
 etwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 106.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 105.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 106.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 108.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 108.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 109.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 9.0pt on input line 109.
+(Font)              scaled to size 17.28pt on input line 105.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/n' on input line 109.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
 (Font)              scaled to size 10.0pt on input line 109.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 111.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 111.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 111.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 5.0pt on input line 111.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 130.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 109.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 130.
+(Font)              scaled to size 12.0pt on input line 109.
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 130.
+ut line 109.
 
 (C:\Users\manan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesom
 eone.fd
@@ -659,22 +643,22 @@ File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesomeone/b/n' undefined
-(Font)              using `U/fontawesomeone/m/n' instead on input line 130.
+(Font)              using `U/fontawesomeone/m/n' instead on input line 109.
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 130.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 109.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 130.
+(Font)              scaled to size 12.0pt on input line 109.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 130.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 109.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 130.
+(Font)              scaled to size 10.0pt on input line 109.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 130.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 109.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 130.
+(Font)              scaled to size 9.0pt on input line 109.
 LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF o
-n input line 137.
+n input line 115.
 
 (C:\Users\manan\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\ts1source
 sanspro-tlf.fd
@@ -682,14 +666,30 @@ File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/So
 urceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 137.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 115.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 137.
+(Font)              scaled to size 10.0pt on input line 115.
 
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 152.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 134.
 
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 137.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 5.0pt on input line 137.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 200.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 200.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 201.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
+(Font)              scaled to size 9.0pt on input line 201.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 204.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 204.
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -703,16 +703,16 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 9DEAE957E6FCD45EF7735FF3A065DBF3;297.
+(rerunfilecheck)             Checksum: 8178769A591DAE54593BE5DC5893BD68;390.
  ) 
 Here is how much of TeX's memory you used:
- 12959 strings out of 475385
- 209507 string characters out of 2776907
- 579159 words of memory out of 3000000
- 34143 multiletter control sequences out of 15000+600000
- 576562 words of font info for 62 fonts, out of 8000000 for 9000
+ 12963 strings out of 475385
+ 209573 string characters out of 2776907
+ 588138 words of memory out of 3000000
+ 34146 multiletter control sequences out of 15000+600000
+ 576878 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,438b,451s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,11n,77p,439b,451s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/manan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a
 _5ponh6.enc}{C:/Users/manan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourc
 esanspro/a_emkxm5.enc}{C:/Users/manan/AppData/Local/Programs/MiKTeX/fonts/enc/d
@@ -724,9 +724,9 @@ ld.pfb><C:/Users/manan/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesa
 nspro/SourceSansPro-It.pfb><C:/Users/manan/AppData/Local/Programs/MiKTeX/fonts/
 type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/manan/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
-Output written on resume.pdf (1 page, 208292 bytes).
+Output written on resume.pdf (1 page, 211454 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
