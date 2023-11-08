@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1688333888 "c:/Users/manan/Projects/resume/resume.tex" "resume.pdf" "resume" 1688333890 0
+["pdflatex"] 1699476698 "c:/Users/manan/Projects/resume/resume.tex" "resume.pdf" "resume" 1699476700 0
   "C:/Users/manan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1688239272 184557 7c73f826d50ee2d4d167e60e4dcb3f7f ""
   "C:/Users/manan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1673884807 10788010 b2510e97fec0dbba8e2aba3d8fd793da ""
   "C:/Users/manan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463869852 1687 f004baecce60175c6453d0e3f808cf20 ""
@@ -115,11 +115,11 @@
   "C:/Users/manan/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1654690828 7392 6cb60c76983625ab7344d128dbcdd881 ""
   "C:/Users/manan/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/manan/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/manan/Projects/resume/resume.tex" 1688333884 8197 175419e9949de5a9d59ec16ca07326f2 ""
+  "c:/Users/manan/Projects/resume/resume.tex" 1699476698 8339 e9ba2632c3880e0b43ef56e5f76cfd0d ""
   "fontawsome.sty" 1463898652 2757 ee97743276dc242c78f33fd622e260ea ""
-  "resume.aux" 1688333889 1097 11039a69caebe0f250fcbd8f1c0317d9 "pdflatex"
-  "resume.out" 1688333889 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "resume.tex" 1688333884 8197 175419e9949de5a9d59ec16ca07326f2 ""
+  "resume.aux" 1699476699 1097 11039a69caebe0f250fcbd8f1c0317d9 "pdflatex"
+  "resume.out" 1699476699 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "resume.tex" 1699476698 8339 e9ba2632c3880e0b43ef56e5f76cfd0d ""
   (generated)
   "resume.aux"
   "resume.log"
