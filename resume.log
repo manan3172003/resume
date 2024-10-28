@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.18)  27 SEP 2024 20:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.18)  28 OCT 2024 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -655,24 +655,24 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 135.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 131.
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 138.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 134.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 5.0pt on input line 138.
+(Font)              scaled to size 5.0pt on input line 134.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 203.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 199.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 203.
+(Font)              scaled to size 9.0pt on input line 199.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 204.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 200.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 9.0pt on input line 204.
+(Font)              scaled to size 9.0pt on input line 200.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 207.
+(Font)              <9> on input line 203.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 207.
+(Font)              <6> on input line 203.
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -700,7 +700,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  13205 strings out of 474116
  208064 string characters out of 5743682
- 1964187 words of memory out of 5000000
+ 1963187 words of memory out of 5000000
  35371 multiletter control sequences out of 15000+600000
  674000 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -712,7 +712,7 @@ anspro/SourceSansPro-BoldIt.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1
 /adobe/sourcesanspro/SourceSansPro-It.pfb></usr/local/texlive/2024/texmf-dist/f
 onts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/20
 24/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
-Output written on resume.pdf (1 page, 254518 bytes).
+Output written on resume.pdf (1 page, 251954 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
