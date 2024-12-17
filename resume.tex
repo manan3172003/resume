@@ -24,11 +24,11 @@
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
-\addtolength{\oddsidemargin}{-0.5in}
-\addtolength{\evensidemargin}{-0.5in}
-\addtolength{\textwidth}{1in}
-\addtolength{\topmargin}{-.5in}
-\addtolength{\textheight}{1.0in}
+\addtolength{\oddsidemargin}{-0.75in}
+\addtolength{\evensidemargin}{-0.75in}
+\addtolength{\textwidth}{1.5in}
+\addtolength{\topmargin}{-0.75in}
+\addtolength{\textheight}{1.5in}
 
 \urlstyle{same}
 
@@ -82,8 +82,6 @@
 
 \begin{document}
 
-
-
 \begin{center}
     {\fontsize{34pt}{34pt}\selectfont Manan Jain} \\
 
@@ -106,19 +104,11 @@
       \resumeSubheading
       {\large University of Alberta}{\large Expected: May 2026}
       {\normalsize{BSc Honors in Computer Science -- \textbf{GPA: 3.6}}}{\normalsize{Edmonton, AB}}
-      \resumeSubheading
-      {}{}
-      {\normalsize{Relevant Coursework:}}{}
+    \resumeSubheading
+    {\normalsize{Awards: Faculty of Science Scholarship (2021-2023), Dean's Honor Roll (2022-2023) }}{}
+    {}{}
   \resumeSubHeadingListEnd
-        \resumeItemListStart
-          \resumeItem{ \textbf{Operating Systems}, \textbf{Computer Organization and Architecture}, \textbf{Machine Learning}, Algorithms, Software Engineering, Introduction to File and Database Management,  Formal Systems and Logic}
-        \resumeItemListEnd
   \vspace{-15pt}
-  \resumeSubHeadingListStart
-        \resumeSubheading
-        {}{}
-        {\normalsize{Awards: Faculty of Science Scholarship (2021-2023), Dean's Honor Roll (2022-2023) }}{}
-    \resumeSubHeadingListEnd
 
 %-----------EXPREIENCE-----------
 \vspace{-10pt}
@@ -130,31 +120,52 @@
       {\normalsize{Software Engineer Intern}}{\normalsize{May 2024 -- Present}}
       \vspace{1pt}
       \resumeItemListStart
-      \resumeItem{Contributed to the development of an ad targeting system using Kotlin, Docker, and AWS, optimizing the delivery of personalized advertisements across various platforms, enhancing view count metrics by \textbf{20\%}.}
-      \resumeItem{Worked with AWS cloud services to deploy applications, ensuring high availability and reliability.}
-      \resumeItem{Designed and implemented an industries API to enforce competitive separation among advertisers, ensuring that competing companies' ads were not shown consecutively, enhancing compliance with industry regulations.}
+      \resumeItem{Contributed to the development of an ad targeting system using \textbf{Kotlin, Docker, and AWS}, optimizing the delivery of \textbf{personalized advertisements} across various platforms, enhancing \textbf{view count metrics by 20\%}.}
+      \resumeItem{Designed and implemented an \textbf{industries API} to enforce \textbf{competitive separation among advertisers}, ensuring that competing companies' ads were not shown consecutively, enhancing compliance with industry regulations.}
+      \resumeItem{Collaborated with a team of 8 developers to \textbf{migrate the existing ad targeting system} to a \textbf{microservices architecture}, reducing the \textbf{latency by 30\%}.}
+      \resumeItem{Participated in the \textbf{on-call rotation} to provide 24/7 support for the ad campaign management system, ensuring that the system was \textbf{always operational}.}
+      \resumeItem{Acted as \textbf{Scrum Master} for a team of 10 developers, leading \textbf{daily standups}, \textbf{sprint planning}, \textbf{retrospective meetings}, and ensuring smooth execution of \textbf{iteration reviews} across project timelines.}
       \resumeItemListEnd
       \vspace{5pt}
+
       \resumeSubheading
-      {\large UofA Blueprint}{\large Edmonton, AB}
-      {\normalsize{Full-Stack Developer}}{\normalsize{Feb. 2023 -- August 2023}}
+      {\large University of Alberta}{\large Edmonton, AB}
+      {\normalsize{Undergraduate Research Assistant}}{\normalsize{January 2025 -- Present}}
       \vspace{1pt}
       \resumeItemListStart
-        \resumeItem{Collaborated with a team of 12 developers to successfully deliver a robust web application for a non-profit organization.}
-        \resumeItem{Utilized React, and MongoDB to develop innovative features and functionalities for the web application, resulting in a \textbf{decrease in loading time by 20\%.}}
-        \resumeItem{Implemented \textbf{agile methodology} throughout the development process, effectively managing project timelines.}
+      \resumeItem{Assisting in teaching \textbf{undergraduate and graduate students} the fundamentals of \textbf{parallel and distributed systems}, including \textbf{shared-memory and distributed-memory architectures}.}
+      \resumeItem{Guiding students through \textbf{thread programming} and \textbf{data-parallel programming}, with a focus on optimizing performance in \textbf{high-performance computing} environments.}
+      \resumeItem{Setup and maintained \textbf{HPC clusters} for students to run their parallel programs, ensuring that the clusters were \textbf{optimized for performance} and \textbf{scalability}.}
       \resumeItemListEnd
+      \vspace{5pt}
 
-
+      \resumeSubheading
+      {\large UofA Blueprint}{\large Edmonton, AB}
+      {\normalsize{Full-Stack Developer}}{\normalsize{Feb. 2023 -- Aug. 2023}}
+      \vspace{1pt}
+      \resumeItemListStart
+        \resumeItem{Developed a web application for a \textbf{non-profit organization}, collaborating with a team of 12 developers.}
+        \resumeItem{Engineered \textbf{frontend features} using \textbf{React} and optimized backend performance with \textbf{MongoDB}, achieving a \textbf{20\% reduction in loading time}.}
+        \resumeItem{Refactored existing codebase, improving \textbf{code readability} and \textbf{maintainability}, resulting in a \textbf{25\% increase} in development efficiency for future features.}
+      \resumeItemListEnd      
   \resumeSubHeadingListEnd
-
-
 
 %-----------PROJECTS-----------
 \vspace{-10pt}
 \section{\LARGE Projects}
  \vspace{3pt}
   \resumeSubHeadingListStart
+
+  \resumeSubheading
+  {\href{https://github.com/NatRunners/StudyAmp}{\underline{ StudyAmp (FastAPI, React, EEG Analysis) | NatHacks 2024 Winner} }}{}
+  {}{}
+  \vspace{-5pt}
+  \resumeItemListStart
+    \resumeItem{Built a \textbf{real-time attention monitoring system} using Muse 2 EEG and Brainflow, achieving \textbf{95\% accuracy} in tracking focus and live data synchronization.}
+    \resumeItem{Engineered an \textbf{AI-powered focus analysis tool} with \textbf{Gemini API RAG LLM and Neural Networks}, improving focus retention by \textbf{30\%} and generating personalized summaries for low-focus segments.}
+    \resumeItem{Developed a scalable \textbf{FastAPI backend} for real-time EEG data processing and audio analysis, supporting multi-user sessions efficiently.}
+  \resumeItemListEnd
+
     \resumeSubheading
       {\href{https://github.com/CMPUT301W23T32/lordofthewings}{\underline{ GeoQR (Java, Android Studio)} }}{}
       {}{}
@@ -165,30 +176,6 @@
         \resumeItem{Gained expertise in utilizing the \textbf{Google Maps API} and implemented the maps functionality, enabling users to view the locations of the scanned QR codes.}
         \resumeItem{Optimized load times and reduced crashes by \textbf{60\%} by implementing \textbf{threading and asynchronous programming in Java.}}
     \resumeItemListEnd
-
-
-    \resumeSubheading
-  {\href{https://github.com/NatRunners/StudyAmp}{\underline{ StudyAmp (FastAPI, React, EEG Analysis)} }}{}
-  {}{}
-  \vspace{-5pt}
-  \resumeItemListStart
-    \resumeItem{Developed StudyAmp, a productivity application that monitors focus levels during study sessions using EEG data and audio analysis.}
-    \resumeItem{Built a responsive frontend using \textbf{React} for data visualization with \textbf{Chart.js} and implemented real-time data streaming through a \textbf{FastAPI} backend.}
-    \resumeItem{Integrated EEG data processing and audio analysis to provide real-time feedback and personalized insights for users to enhance their study performance.}
-  \resumeItemListEnd
-
-
-
-    \resumeSubheading
-      {\href{https://github.com/manan3172003/Shell379/tree/main/Assignment1}{\underline{ Shell: System-Level Process Orchestrator (C++)} }}{}
-      {}{}
-      \vspace{-5pt}
-      \resumeItemListStart
-        \resumeItem{Engineered a sophisticated command line shell entirely in \textbf{C++}, proficiently orchestrating a wide array of \textbf{system-level processes}.}
-        \resumeItem{Prioritized user-friendly interactions, ensuring intuitive command input and output.}
-        \resumeItem{Demonstrated adeptness in \textbf{low-level system operations} for seamless process execution.}
-    \resumeItemListEnd
-
 
   \resumeSubHeadingListEnd
 
